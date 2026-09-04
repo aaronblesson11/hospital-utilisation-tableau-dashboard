@@ -32,6 +32,13 @@ This project was developed to explore patterns in hospital utilisation and healt
 
 The dashboard allows users to compare hospitalisation patterns across geographic regions, time periods and population groups, while using multiple visualisations to communicate trends and differences clearly.
 
+## Key Insights
+
+- Hospitalisation patterns vary considerably across Australian regions and demographic groups.
+- Population-adjusted rates provide more meaningful comparisons than raw hospitalisation counts alone.
+- Time-series analysis highlights changes in hospital utilisation across financial years.
+- Geographic and categorical visualisations help identify areas and population groups with higher levels of preventable hospitalisations.
+
 ## Tools Used
 
 - Tableau
