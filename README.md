@@ -9,7 +9,7 @@ An interactive Tableau dashboard analysing hospital utilisation and health outco
 ## Key Visualisations
 
 ### Geographic Distribution
-![Geographic Distribution](screenshots/geographic distribution.png)
+![Geographic Distribution](screenshots/geographic_distribution.png)
 
 ### Hospitalisation Rates Over Time
 ![Rates Over Time](screenshots/rates_over_time.png)
